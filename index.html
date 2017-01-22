@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Skyspy6363</title>
+	<link rel= “icon” type=”apple-touch-icon/png” href=”photo.png”/>
+	<link rel="stylesheet" type="text/css" href="Style.css">
+</head>
+<body>
+	<center><h1>Skyspy6363</h1></center>
+	
+	<center><h3>Featured Video</h3></center>
+
+	<center>
+<video width="640" height="480" controls>
+  <source src="MineCraft.mp4" type="video/mp4">
+  <source src="MineCraft.ogg" type="video/ogg">
+</video>
+	</center>
+	<div id="sidebar">
+
+		<ul>
+			<li><a>Home</a></li>
+			<li><a href="About.html">About</a></li>
+			<li><a href="https://www.youtube.com/channel/UCeYeZuCMUEGdzEkh9BwgzFA">Channel</a></li>
+		</ul>
+
+		<div id="sidebar-btn">
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
+
+	</div>
+
+	
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script>
+
+	$(document).ready(function(){
+		$('#sidebar-btn').click(function(){
+			$('#sidebar').toggleClass('visible');
+		});
+	});
+
+	</script>
+
+</body>
+</html>
