@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Skyspy6363</title>
+	<link rel="stylesheet" type="text/css" href="Style.css">
+</head>
+<body>
+
+
+
+
+
+
+
+
+<div id="sidebar">
+
+		<ul>
+			<li><a>Home</a></li>
+			<li><a href="About.html">About</a></li>
+			<li><a href="https://www.youtube.com/channel/UCeYeZuCMUEGdzEkh9BwgzFA">Channel</a></li>
+		</ul>
+
+		<div id="sidebar-btn">
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
+
+	</div>
+
+	
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script>
+	$(document).ready(function(){
+		$('#sidebar-btn').click(function(){
+			$('#sidebar').toggleClass('visible');
+		});
+	});
+	</script>
+</body>
+</html>
