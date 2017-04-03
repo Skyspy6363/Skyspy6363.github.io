@@ -3,6 +3,9 @@ body{
 	padding:0px;
 	font-family:"Helvetica Neue", Helvetica, Arial;
 	background: url("Background.jpg");
+	margin: 0px;
+	padding: 0px;
+	size: auto;
 }
 
 #sidebar{
