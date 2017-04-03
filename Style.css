@@ -2,7 +2,7 @@ body{
 	margin:0px;
 	padding:0px;
 	font-family:"Helvetica Neue", Helvetica, Arial;
-	background: url ('Background.jpeg');
+	background-image: url("Background.jpeg");
 }
 
 #sidebar{
