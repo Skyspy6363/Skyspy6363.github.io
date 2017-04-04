@@ -2,7 +2,7 @@ body{
 	margin:0px;
 	padding:0px;
 	font-family:"Helvetica Neue", Helvetica, Arial;
-	background: url("Background.jpg");
+	background-image: url("Images/Background.jpg");
     background-repeat: no-repeat;
 	margin: 0px;
 	padding: 0px;
