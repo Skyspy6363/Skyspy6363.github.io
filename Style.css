@@ -2,7 +2,8 @@ body{
 	margin:0px;
 	padding:0px;
 	font-family:"Helvetica Neue", Helvetica, Arial;
-	background: url("Background.jpg");
+	background-image: url("Images/Background.jpg");
+    background-repeat: no-repeat;
 	margin: 0px;
 	padding: 0px;
 	size: auto;
@@ -68,4 +69,8 @@ ul li a{
 
 #sidebar-btn span:nth-child(3){
 	width:50%;
+}
+
+footer {
+    padding-top: 250px;
 }
