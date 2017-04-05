@@ -2,7 +2,7 @@ body{
 	margin:0px;
 	padding:0px;
 	font-family:"Helvetica Neue", Helvetica, Arial;
-	background: url("Images/Back.png);
+	background-image: url("Images/Back.png");
     background-repeat: no-repeat;
 	margin: 0px;
 	padding: 0px;
@@ -72,5 +72,5 @@ ul li a{
 }
 
 footer {
-    padding-top: 250px;
+    padding-top: 260px;
 }
