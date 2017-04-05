@@ -1,12 +1,9 @@
-body{
-	margin:0px;
-	padding:0px;
-	font-family:"Helvetica Neue", Helvetica, Arial;
-	background-image: url("Images/Back.png");
-    background-repeat: no-repeat;
-	margin: 0px;
-	padding: 0px;
-	size: auto;
+html { 
+  background: url(images/back.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #sidebar{
@@ -69,6 +66,15 @@ ul li a{
 
 #sidebar-btn span:nth-child(3){
 	width:50%;
+}
+ .box{ 
+	background-color: white;
+    position: absolute;
+    height: 40%;
+    width: 30%;
+    left: 30%;
+    top: 20%;
+	allign: center;
 }
 
 footer {
