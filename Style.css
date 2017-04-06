@@ -1,5 +1,5 @@
 html { 
-  background: url(images/back.png) no-repeat center center fixed; 
+  background: url(back.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -68,7 +68,7 @@ ul li a{
 	width:50%;
 }
  .box{ 
-	background-color: url(Images/Back.png);
+	background-color: url(Back.png);
     position: absolute;
     height: 40%;
     width: 30%;
