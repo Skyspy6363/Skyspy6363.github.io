@@ -1,5 +1,5 @@
 html { 
-  background: url(Images/Background.jpg) no-repeat center center fixed; 
+  background: url(Background.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -68,7 +68,7 @@ ul li a{
 	width:50%;
 }
  .box{ 
-	background-color: url(Images/Sky.png);
+	background-color: url(Background.jpg);
     position: absolute;
     height: 40%;
     width: 30%;
