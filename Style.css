@@ -81,3 +81,13 @@ footer {
     padding-top: 850px;
 	padding-left: 200px;
 }
+
+ .title{ 
+	background-color: url(Background.jpg);
+    position: absolute;
+    height: 40%;
+    width: 30%;
+    left: 30%;
+    top: 20%;
+	allign: left;
+}
