@@ -89,5 +89,6 @@ footer {
     width: 30%;
     left: 30%;
     top: 20%;
-	allign: left;
+    allign: left;
+    padding-left: 100px;
 }
